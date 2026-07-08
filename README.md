@@ -37,7 +37,7 @@ This matrix tracks all integrated modules, their runtime environments, developme
         <th align="center">💻 Type</th>
         <th align="center">🛠️ Dev Status</th>
         <th align="center">🔗 Live Link (Vercel)</th>
-        <th align="center">🔍 Google Indexed (Live)</th>
+        <th align="center">🔍 Status</th>
       </tr>
     </thead>
     <tbody>
