@@ -42,46 +42,11 @@ This matrix tracks all integrated modules, their runtime environments, developme
     </thead>
     <tbody>
       <tr>
-        <td><b>Tic-Tac-Toe</b> (AI & Local)</td>
+        <td><b>Running game </td>
         <td align="center"><code>Frontend</code></td>
         <td align="center"><img src="https://img.shields.io/badge/-Stable-2ecc71?style=flat-square" /></td>
         <td align="center"><a href="#">View Deployment ↗</a></td>
-        <td align="center">🟢 Live</td>
-      </tr>
-      <tr>
-        <td><b>Snake & Ladder</b> (Multiplayer)</td>
-        <td align="center"><code>Full-Stack</code></td>
-        <td align="center"><img src="https://img.shields.io/badge/-Stable-2ecc71?style=flat-square" /></td>
-        <td align="center"><a href="#">View Deployment ↗</a></td>
-        <td align="center">🟢 Live</td>
-      </tr>
-      <tr>
-        <td><b>Fruit Cut</b> (Canvas Engine)</td>
-        <td align="center"><code>Frontend</code></td>
-        <td align="center"><img src="https://img.shields.io/badge/-Stable-2ecc71?style=flat-square" /></td>
-        <td align="center"><a href="#">View Deployment ↗</a></td>
-        <td align="center">🟡 Pending Index</td>
-      </tr>
-      <tr>
-        <td><b>Chess</b> (Online Matchmaking)</td>
-        <td align="center"><code>Full-Stack</code></td>
-        <td align="center"><img src="https://img.shields.io/badge/-In%20Progress-f1c40f?style=flat-square" /></td>
-        <td align="center"><a href="#">View Deployment ↗</a></td>
-        <td align="center">❌ Not Live</td>
-      </tr>
-      <tr>
-        <td><b>Running Game</b> (Infinite Loop)</td>
-        <td align="center"><code>Frontend</code></td>
-        <td align="center"><img src="https://img.shields.io/badge/-Stable-2ecc71?style=flat-square" /></td>
-        <td align="center"><a href="#">View Deployment ↗</a></td>
-        <td align="center">🟢 Live</td>
-      </tr>
-      <tr>
-        <td><b>Word Search</b></td>
-        <td align="center"><code>Frontend</code></td>
-        <td align="center"><img src="https://img.shields.io/badge/-Planning-95a5a6?style=flat-square" /></td>
-        <td align="center"><i>--</i></td>
-        <td align="center">❌ Not Live</td>
+        <td align="center">🔵 View</td>
       </tr>
     </tbody>
   </table>
