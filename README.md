@@ -49,6 +49,13 @@ This matrix tracks all integrated modules, their runtime environments, developme
         <td align="center"><a href="https://sprandhawa.github.io/gaming-hub/running%20game/">View Deployment ↗</a></td>
         <td align="center">🔵 View</td>
       </tr>
+         <tr>
+        <td><b>Tic-Tac-Toe </td>
+        <td align="center"><code>Frontend</code></td>
+        <td align="center"><img src="https://img.shields.io/badge/-Stable-2ecc71?style=flat-square" /></td>
+        <td align="center"><a href="https://sprandhawa.github.io/gaming-hub/tic_tac_toe/">View Deployment ↗</a></td>
+        <td align="center">🔵 View</td>
+      </tr>  
     </tbody>
   </table>
 </div>
